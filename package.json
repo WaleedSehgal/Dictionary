@@ -1,7 +1,7 @@
 {
   "name": "ski-dictionary",
   "version": "1.0.0",
-  "description": "A collection of skier terms and definitions",
+  "description": "A node dictionary app",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
