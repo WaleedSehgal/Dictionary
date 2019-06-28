@@ -3,6 +3,7 @@ var cors = require("cors");
 var bodyParser = require("body-parser");
 var app = express();
 
+//Add dictionary terms here
 var skierTerms = [
     {
         term: "Rip",
